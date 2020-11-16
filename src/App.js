@@ -13,6 +13,9 @@ export default class App extends Component {
     <div className="App">
       <nav role="navigation">
         Navigation Bar
+        <aside class="menu">
+          <i class="drop-down"></i><a href="#" id="login">Login</a>
+        </aside>
 
       </nav>
         <header>
